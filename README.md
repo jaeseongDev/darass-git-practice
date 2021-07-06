@@ -1,11 +1,7 @@
-다라스입니다. 밑에 닉네임과 링크 달아주세요.
+### 안녕하세요 다라스입니다.
 
-[곤이 자기소개](goni.md)
+#### 팀명: 다라스(Darass)
 
-[도비 자기소개](doby.md)
+#### 팀 소개: 댓글 다라쓰, 블로그에 다라쓰
 
-[제이온 자기소개](jayon.md)
-
-[아론](./AARON.md)
-
-[우기](https://github.com/jaeseongDev/darass-git-practice/blob/feature/woogie/woogie.md)
+[팀원 소개 페이지](member_introduce.md)
