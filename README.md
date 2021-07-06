@@ -7,5 +7,7 @@
 
 제이온: https://github.com/jaeseongDev/darass-git-practice/blob/feature/jayon/jayon.md
 
-<br>
 [아론](./AARON.md)
+
+[우기](https://github.com/jaeseongDev/darass-git-practice/blob/feature/woogie/woogie.md)
+
