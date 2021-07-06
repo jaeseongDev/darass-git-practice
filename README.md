@@ -4,7 +4,7 @@
 
 [도비 자기소개](doby.md)
 
-제이온: https://github.com/jaeseongDev/darass-git-practice/blob/feature/jayon/jayon.md
+[제이온 자기소개](jayon.md)
 
 [아론](./AARON.md)
 
